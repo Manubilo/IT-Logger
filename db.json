@@ -2,32 +2,20 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Fixed dd ddddd a",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "Sara Wilson",
+      "date": "2021-01-16T01:02:45.906Z"
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Changed nameeee",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "John Doe",
+      "date": "2021-01-16T00:53:32.321Z"
     }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
     {
       "id": 2,
       "firstName": "Sam",
@@ -37,6 +25,21 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "greg",
+      "lastName": "harris",
+      "id": 4
+    },
+    {
+      "firstName": "ddd",
+      "lastName": "aaa",
+      "id": 5
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Smith",
+      "id": 6
     }
   ]
 }
